@@ -1,0 +1,4 @@
+sep=,
+type,sourceName,sourceVersion,productType,device,startDate,endDate,unit,value
+HKQuantityTypeIdentifierBodyMass,Sağlık,13.6.1,"iPhone8,1",,2020-08-24 14:13:52 +0000,2020-08-24 14:13:52 +0000,kg,64.5
+HKQuantityTypeIdentifierBodyMass,Ege,16.1.1,"iPhone12,1",,2022-11-26 10:14:53 +0000,2022-11-26 10:14:53 +0000,kg,71.0
