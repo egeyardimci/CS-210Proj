@@ -1,5 +1,6 @@
 # CS-210 Term Project
 ## [Web Site for The Project](https://egeyardimci.github.io/CS-210Proj/)
+>Please use a computer and chrome for the full experience of the web site.
 
 I am Ege Yardımcı (31024) and, I have done my project on my health and Spotify data.
 
